@@ -1,0 +1,2 @@
+# Sales-Performance-Dashboard-of-Gamaka-Ai-Employees-2025-2026
+This is the Sales Dashboard of Gamaka AI for the year 2025-26. It reports 16M in total sales, 12M in cost, and 4M in profit across 794 transactions and 2K units. Monitors lead category quantities at 304, while Intel leads brand sales at 20.45%. A geographic map displays regional sales across India, alongside a sidebar for filtering by supervisor.
